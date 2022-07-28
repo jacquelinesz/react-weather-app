@@ -8,13 +8,12 @@ export default function App() {
       <div className="container">
         <Weather />
         <footer>
-          This project was coded by Jacqueline Solorzano and is open-sourced on
+          This project was coded by Jacqueline Solorzano and is open-sourced on{" "}
           <a
             href="https://github.com/jacquelinesz/react-weather-app"
             target="_blank"
             rel="noreferrer"
           >
-            {" "}
             GitHub
           </a>
         </footer>

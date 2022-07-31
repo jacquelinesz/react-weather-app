@@ -25,21 +25,21 @@
   line-height: 19px;
   list-style: none;
 }
-.Weather img {
-  height: 100px;
-  width: 100px;
+.Weather canvas {
   margin: 0;
+  margin-top: 15px;
+  margin-right: 10px;
 }
 .Weather .temperature {
   font-size: 64px;
   line-height: 64px;
   position: relative;
-  bottom: -16px;
+  bottom: 10px;
 }
 .Weather .unit {
   position: relative;
   font-size: 16px;
-  top: -15px;
+  top: -40px;
 }
 .form-control {
   border: 1px solid #0d47a1;

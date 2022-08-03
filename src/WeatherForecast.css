@@ -1,0 +1,10 @@
+.WeatherForecast {
+  text-align: center;
+}
+.WeatherForecast-low {
+  opacity: 0.6;
+  margin: 3px;
+}
+.WeatherForecast-high {
+  margin: 3px;
+}

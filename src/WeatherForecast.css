@@ -1,5 +1,6 @@
 .WeatherForecast {
   text-align: center;
+  margin-top: 15px;
 }
 .WeatherForecast-low {
   opacity: 0.6;
@@ -7,4 +8,9 @@
 }
 .WeatherForecast-high {
   margin: 3px;
+}
+.WeatherForecastDay {
+  border: 1px solid #0d47a1;
+  border-radius: 5px;
+  line-height: 2;
 }
